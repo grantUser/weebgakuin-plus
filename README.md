@@ -23,6 +23,16 @@ Clicking the Download button for a specific content row will initiate the downlo
 
 Clicking the Stream button for eligible content will open a video player that streams the content directly.
 
+## Development Status
+
+Please note that WeebGakuin+ is currently under active development. New features and improvements are being worked on to enhance your experience. The script is designed to adapt to changes on [weebgakuin.org](https://weebgakuin.org/), but occasional issues might arise.
+
+## Streaming Subtitles
+
+**Important:** At the moment, subtitles for streaming content are not yet available. We're working hard to bring this feature to you in future updates. Your patience and support are greatly appreciated.
+
+If you encounter any issues or have suggestions, feel free to contribute or open an issue on the [GitHub repository](https://github.com/grantUser/weebgakuin-plus). We value your feedback!
+
 ## Compatibility
 
 This script has been tested and verified to work on [weebgakuin.org](https://weebgakuin.org/) using the Tampermonkey extension for popular web browsers.
