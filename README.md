@@ -44,6 +44,7 @@ This script has been tested and verified to work on [weebgakuin.org](https://wee
 ## Credits
 
 Author: [grant_user](https://twitter.com/grant_user)
+
 GitHub Repository: [grantUser/weebgakuin-plus](https://github.com/grantUser/weebgakuin-plus)
 
 ## License
