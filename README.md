@@ -37,6 +37,10 @@ If you encounter any issues or have suggestions, feel free to contribute or open
 
 This script has been tested and verified to work on [weebgakuin.org](https://weebgakuin.org/) using the Tampermonkey extension for popular web browsers.
 
+## Screen
+
+![screen](https://github.com/grantUser/weebgakuin-plus/assets/140173422/ac41449a-31fc-4449-ae1e-d3cbf89fce4d)
+
 ## Credits
 
 Author: [grant_user](https://twitter.com/grant_user)
